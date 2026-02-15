@@ -9,9 +9,9 @@
 
 ## 📑 目录
 
-* [🛠️ 第一阶段：VS Code 调试实战技巧](https://www.google.com/search?q=%231)
-* [🔄 第二阶段：核心图像数据处理](https://www.google.com/search?q=%232)
-* [🧠 第三阶段：底层动作预测与通信机制](https://www.google.com/search?q=%233)
+* [🛠️ 第一阶段：VS Code 调试实战技巧]
+* [🔄 第二阶段：核心图像数据处理]
+* [🧠 第三阶段：底层动作预测与通信机制]
 
 ---
 
@@ -87,6 +87,5 @@ action_deque.extend(action_chunk[: args.replan_steps])
 
 > **💡 关于本项目**：本文档整理自实机与仿真调试过程中的踩坑经验与源码阅读笔记，希望能为正在研究端到端具身智能（Embodied AI）模型的你提供帮助！
 
----
 
-需要我帮你把这份 README 翻译成英文，以便让更多的国际开发者也能看懂你的项目吗？
+
